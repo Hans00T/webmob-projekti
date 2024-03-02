@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/webmob-projekti/static/css/main.6d71f6ee.css",
-    "main.js": "/webmob-projekti/static/js/main.fca3de4e.js",
+    "main.css": "/webmob-projekti/static/css/main.05c3c518.css",
+    "main.js": "/webmob-projekti/static/js/main.798c3330.js",
     "static/media/bg_image.jpg": "/webmob-projekti/static/media/bg_image.42559989f1c76cd37a61.jpg",
     "index.html": "/webmob-projekti/index.html",
-    "main.6d71f6ee.css.map": "/webmob-projekti/static/css/main.6d71f6ee.css.map",
-    "main.fca3de4e.js.map": "/webmob-projekti/static/js/main.fca3de4e.js.map"
+    "main.05c3c518.css.map": "/webmob-projekti/static/css/main.05c3c518.css.map",
+    "main.798c3330.js.map": "/webmob-projekti/static/js/main.798c3330.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d71f6ee.css",
-    "static/js/main.fca3de4e.js"
+    "static/css/main.05c3c518.css",
+    "static/js/main.798c3330.js"
   ]
 }
