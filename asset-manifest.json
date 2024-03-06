@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/webmob-projekti/static/css/main.55841b56.css",
-    "main.js": "/webmob-projekti/static/js/main.6ca29600.js",
+    "main.css": "/webmob-projekti/static/css/main.5138b8cc.css",
+    "main.js": "/webmob-projekti/static/js/main.e17872d7.js",
     "static/media/testivideo.mp4": "/webmob-projekti/static/media/testivideo.765182aeb6e848ee3a62.mp4",
     "static/media/street.jpg": "/webmob-projekti/static/media/street.95743cb7e35df200204e.jpg",
     "static/media/bg_image.jpg": "/webmob-projekti/static/media/bg_image.42559989f1c76cd37a61.jpg",
     "static/media/teeth.jpg": "/webmob-projekti/static/media/teeth.a74723d6fb10f397d76d.jpg",
     "static/media/noimage.png": "/webmob-projekti/static/media/noimage.a75d7cf1baebbd8b6241.png",
     "index.html": "/webmob-projekti/index.html",
-    "main.55841b56.css.map": "/webmob-projekti/static/css/main.55841b56.css.map",
-    "main.6ca29600.js.map": "/webmob-projekti/static/js/main.6ca29600.js.map"
+    "main.5138b8cc.css.map": "/webmob-projekti/static/css/main.5138b8cc.css.map",
+    "main.e17872d7.js.map": "/webmob-projekti/static/js/main.e17872d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.55841b56.css",
-    "static/js/main.6ca29600.js"
+    "static/css/main.5138b8cc.css",
+    "static/js/main.e17872d7.js"
   ]
 }
